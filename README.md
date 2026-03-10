@@ -1,4 +1,4 @@
-# Projeto Final para Imersão Alura em IA
+# Projeto Chat Bot com IA
 
 ## Resumo sobre o projeto
 
